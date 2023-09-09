@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  authorization_service:
+    build: ./
+    ports:
+      - "8080:8080"
+
+
+
+
+
+
